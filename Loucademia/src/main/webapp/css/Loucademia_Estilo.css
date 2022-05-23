@@ -5,8 +5,12 @@
 
 body
 {
-	background-color: #8d02ae;
+	background-color: #a7b8ca;
 	text-align: center;
+}
+
+img {
+width: 200px;
 }
 
 nav a
@@ -25,17 +29,17 @@ nav a:hover
 
 h1
 {
-	color: #8bbf18;
+	color: #bf0010;
 	background-color: #ffffff;
 	text-transform: uppercase;
 	font-style: italic;
 	font-size: 20px;
 	padding: 5px;
 	width: 400px;
-	border-left: 10px solid #8bbf18;
-	border-right: 10px solid #8bbf18;
-	border-top: 2px solid #8bbf18;
-	border-bottom: 2px solid #8bbf18;
+	border-left: 10px solid #bf0010;
+	border-right: 10px solid #bf0010;
+	border-top: 2px solid #bf0010;
+	border-bottom: 2px solid #bf0010;
 	border-radius: 30px;
 }
 
@@ -79,13 +83,13 @@ legend
 legend,
 label
 {
-	color: #8d02ae;
+	color: #a7b8ca;
 }
 
 input,
 select
 {
-	border: 1px solid #8d02ae;
+	border: 1px solid #a7b8ca;
 	margin-bottom: 7px;
 }
 
@@ -113,11 +117,11 @@ input[type=tel]#telefoneNumero
 input[type=button],
 input[type=submit]
 {
-	background-color: #8bbf18;
-	border-bottom: 3px solid #5b7b1d;
-	border-top: 1px solid #5b7b1d;
-	border-right: 1px solid #5b7b1d;
-	border-left: 1px solid #5b7b1d;
+	background-color: #bf0010;
+	border-bottom: 3px solid #9b111e;
+	border-top: 1px solid #9b111e;
+	border-right: 1px solid #9b111e;
+	border-left: 1px solid #9b111e;
 	color: #ffffff;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -128,8 +132,8 @@ input[type=submit]
 input[type=button]:hover,
 input[type=submit]:hover
 {
-	background-color: #a0de1c;
-	border-bottom: 3px solid #8bbf18;
+	background-color: #bf0010;
+	border-bottom: 3px solid #9b111e;
 }
 
 table
@@ -142,7 +146,7 @@ table
 
 th
 {
-	background-color: #5b7b1d;
+	background-color: #9b111e;
 	color: #ffffff;
 	text-transform: uppercase;
 	padding: 3px;
